@@ -23,4 +23,4 @@ prompt> msg user2 I have to go
 prompt> quit
 ```
 
-:warn: If you don't ```quit``` or ```logout``` the user will still be considered online
+###### :warning: If you don't ```quit``` or ```logout``` the user will still be considered online
